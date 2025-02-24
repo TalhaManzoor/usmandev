@@ -4,7 +4,7 @@ const nextConfig = {
     // appDir: true,
   },
   // output: "export", // Add this line
-  // optimizeFonts: false,
+  // optimizeFonts: false, 
   images: {
     domains: ["user-images.githubusercontent.com", "cdn.hashnode.com", "github.com"],
   },
