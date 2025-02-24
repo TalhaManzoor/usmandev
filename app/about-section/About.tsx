@@ -133,6 +133,7 @@ const About = () => {
                 charSpace={"mr-[0.01em]"}
               />
               <AnimatedBody
+               className="text-white"
                 text={
                   "• Lead Techno Functional Consultant & Developer.\t(November 2020 - Present)"
                 }
@@ -149,16 +150,19 @@ const About = () => {
                 charSpace={"mr-[0.01em]"}
               />
               <AnimatedBody
+               className="text-white"
                 text={
                   "• Manager Development.(March 2019 – December 2020)"
                 }
               />
                <AnimatedBody
+                className="text-white"
                 text={
                   "• Sr. Techno Functional Consultant - .Net Developer(September 2017 - March 2019)"
                 }
               />
                <AnimatedBody
+                className="text-white"
                 text={
                   "• SAP Developer Consultant(March 2016 - August 2017)"
                 }
@@ -175,6 +179,7 @@ const About = () => {
                 charSpace={"mr-[0.01em]"}
               />
               <AnimatedBody
+               className="text-white"
                 text={
                   "• Junior Web Developer (August 2015 - March 2016)"
                 }
@@ -207,6 +212,7 @@ const About = () => {
                 charSpace={"mr-[0.01em]"}
               />
               <AnimatedBody
+              className="text-white"
                 text={
                   "• University of Vaasa, Vaasa (2024)"
                 }
@@ -225,6 +231,7 @@ const About = () => {
                 charSpace={"mr-[0.01em]"}
               />
               <AnimatedBody
+               className="text-white"
                 text={
                   "• University of Management and Technology, Lahore (2017-2020)"
                 }
@@ -242,6 +249,7 @@ const About = () => {
                 charSpace={"mr-[0.01em]"}
               />
               <AnimatedBody
+               className="text-white"
                 text={
                   "• University of Management and Technology, Lahore (2012-2016)"
                 }

@@ -16,22 +16,22 @@ export type reviewProps = {
 };
 
 export const reviewDetails = [
-  {
-    name: "Samuel Alex",
-    role: "Product Designer",
-    company: "Umoja Linn",
-    profileImg: alex,
-    testimonial:
-      "I had the opportunity to work alongside Usman on multiple projects, and I was continually impressed by his exceptional talent and leadership as a development consultant...",
-  },
-  {
-    name: "Jeremiah Oloyede",
-    role: "Founder",
-    company: "Crown Branding Agency",
-    profileImg: jerry,
-    testimonial:
-      "Victor's work is truly outstanding, and I can't recommend him enough! He completely transformed our branding agency's website. Since launch, we've seen a significant jump in website traffic and, crucially, conversions.",
-  },
+  // {
+  //   name: "Samuel Alex",
+  //   role: "Product Designer",
+  //   company: "Umoja Linn",
+  //   profileImg: alex,
+  //   testimonial:
+  //     "I had the opportunity to work alongside Usman on multiple projects, and I was continually impressed by his exceptional talent and leadership as a development consultant...",
+  // },
+  // {
+  //   name: "Jeremiah Oloyede",
+  //   role: "Founder",
+  //   company: "Crown Branding Agency",
+  //   profileImg: jerry,
+  //   testimonial:
+  //     "Victor's work is truly outstanding, and I can't recommend him enough! He completely transformed our branding agency's website. Since launch, we've seen a significant jump in website traffic and, crucially, conversions.",
+  // },
   {
     name: "Umer Saeed",
     role: "Data Analyst",
@@ -49,12 +49,12 @@ export const reviewDetails = [
       "I had the opportunity to work alongside Usman on multiple projects, and I was continually impressed by his exceptional talent and leadership as a development consultant...",
   },
   {
-    name: "Olamide Sholanke",
-    role: "Senior Frontend Engineer",
-    company: "Mono",
+    name: "Zain Shah",
+    role: "Senior Sale Manager",
+    company: "Taar Consulting",
     profileImg: olamide,
     testimonial:
-      "I had the pleasure of working with Victor on a frontend development project at Mono, and I highly recommend him. He consistently delivered high-quality code, and brought a proactive and creative approach to problem-solving.",
+      "I had the pleasure of working with Muhammad Usman Manzoor, and I can confidently say he is an exceptional professional.",
   },
  
   

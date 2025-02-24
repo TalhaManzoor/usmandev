@@ -76,7 +76,7 @@ const Contact = () => {
           </div>
 
           <div className="flex gap-10 text-[16px] font-bold text-[#e4ded7]  sm:gap-14 sm:text-[24px] md:gap-10 md:text-[16px] lg:gap-20 lg:text-[28px]">
-            <Link
+            {/* <Link
               href="https://github.com/victorcodess"
               target="_blank"
               aria-label="View GitHub Profile"
@@ -89,9 +89,9 @@ const Contact = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-            </Link>
+            </Link> */}
             <Link
-              href="https://www.linkedin.com/in/victor-williams-chukwudi/"
+              href="https://www.linkedin.com/in/muhammad-usman-manzoor-281621a7/"
               target="_blank"
               aria-label="View LinkedIn Profile"
             >
@@ -105,7 +105,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://twitter.com/victorwill__"
+              href="https://twitter.com/"
               target="_blank"
               aria-label="View Twitter Profile"
             >
@@ -119,7 +119,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://www.instagram.com/victorwill__/"
+              href="https://www.instagram.com/muhammad.usman.manzoor/"
               target="_blank"
               aria-label="View Instagram Profile"
             >
@@ -132,7 +132,7 @@ const Contact = () => {
                 charSpace={"mr-[0.01em]"}
               />
             </Link>
-            <Link
+            {/* <Link
               href="https://blog.victorwilliams.me/"
               target="_blank"
               aria-label="View Hashnode Profile"
@@ -145,7 +145,7 @@ const Contact = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>
