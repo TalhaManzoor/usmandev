@@ -27,12 +27,12 @@ const About = () => {
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
             <AnimatedBody
               text={
-                "I specialize in developing AI-driven solutions with a focus on Computer Vision, Machine Learning, and Robotics. With 10 years of experience as a software developer, I have worked on over 150 projects, ranging from AI-powered applications to autonomous systems. My expertise spans software engineering, API development, and integrating intelligent systems for real-world applications. Additionally, I have a strong background in web development and oversee a team of mobile application developers, ensuring efficient project execution and high-quality deliverables."
+                "I specialise in developing AI-driven solutions with a focus on computer vision, machine learning, and robotics. With 10 years of experience as a software developer, I have worked on over 150 projects, ranging from AI-powered applications to autonomous systems. My expertise spans software engineering, API development, and integrating intelligent systems for real-world applications. Additionally, I have a strong background in web development and oversee a team of mobile application developers, ensuring efficient project execution and high-quality deliverables."
               }
             />
             <AnimatedBody
               text={
-                "Beyond my professional work, I am deeply engaged in research and continuously exploring advancements in AI and autonomous systems. I have taken advanced courses in Machine Learning and Applied Machine Learning, achieving top grades, and actively contribute to the AI and robotics community."
+                "Beyond my professional work, I am deeply engaged in research and continuously exploring advancements in AI and autonomous systems. I have taken advanced courses in machine learning and applied machine learning, achieving top grades, and actively contribute to the AI and robotics community."
               }
             />
             <AnimatedBody
