@@ -19,8 +19,9 @@ const Work = () => {
         />
 
        <AnimatedBody
+
                   text="Bringing ideas to life through innovative and efficient development—here are some of my projects."
-                  className="w-[90%] text-center text-[14px] mb-12 font-semibold uppercase sm:w-[500px] md:w-[550px] md:text-[16px]"
+                  className="w-[90%] text-white text-center text-[14px] mb-12 font-semibold uppercase sm:w-[500px] md:w-[550px] md:text-[16px]"
                 />
 
       <ProjectGrid />

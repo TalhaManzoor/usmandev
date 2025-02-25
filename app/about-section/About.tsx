@@ -27,21 +27,26 @@ const About = () => {
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
             <AnimatedBody
               text={
-                "I specialize in developing AI-driven solutions with a focus on Computer Vision, Robotics, and Autonomous Systems. Passionate about building intelligent systems that drive innovation and solve real-world challenges."
+                "I specialize in developing AI-driven solutions with a focus on Computer Vision, Machine Learning, and Robotics. With 10 years of experience as a software developer, I have worked on over 150 projects, ranging from AI-powered applications to autonomous systems. My expertise spans software engineering, API development, and integrating intelligent systems for real-world applications. Additionally, I have a strong background in web development and oversee a team of mobile application developers, ensuring efficient project execution and high-quality deliverables."
               }
             />
             <AnimatedBody
               text={
-                "Whether I’m designing a sleek user interface or coding a complex application, I’m always striving to create something unique and innovative. I love experimenting with new technologies and staying up-to-date with the latest trends in the tech world."
+                "Beyond my professional work, I am deeply engaged in research and continuously exploring advancements in AI and autonomous systems. I have taken advanced courses in Machine Learning and Applied Machine Learning, achieving top grades, and actively contribute to the AI and robotics community."
+              }
+            />
+            <AnimatedBody
+              text={
+                "Beyond my professional work, I am deeply engaged in research and continuously exploring advancements in AI and autonomous systems. I have taken advanced courses in Machine Learning and Applied Machine Learning, achieving top grades, and actively contribute to the AI and robotics community."
               }
               className={"hidden"}
             />
             <AnimatedBody
               text={
-                "Beyond my work as a frontend developer, I'm an active leader in tech communities on campus. As a member of the Google Developer Student Clubs and Microsoft Learn Student Ambassadors, I've led workshops and mentored other students."
+                "I'm always open to new opportunities, collaborations, and innovative projects that push the boundaries of AI and automation. Let’s connect and explore the future of intelligent systems together!"
               }
             />
-            <AnimatedBody
+            {/* <AnimatedBody
               text={
                 "When I'm not coding, you can find me binge-watching anime, hanging out with friends, cheering on Manchester United, or discovering new music in my favorite genres like RnB, UK Drill, and Chill Rap."
               }
@@ -50,13 +55,13 @@ const About = () => {
               text={
                 "I'm currently working on some exciting projects that I can't wait to share with you. But I’m always open to new opportunities and collaborations."
               }
-            />
+            /> */}
           </div>
 
           <div className="mb-24 flex w-[100%] flex-col gap-4 text-[18px] font-normal leading-relaxed tracking-wide text-[#e4ded7]/80 sm:mb-32 md:mb-40 md:gap-6 md:text-[16px] md:leading-normal lg:mt-0 lg:mb-16 lg:max-w-[30%] lg:text-[18px]">
             <div className="flex flex-col gap-4 md:gap-3">
               <AnimatedTitle
-                text={"Frontend Tools"}
+                text={"Programming"}
                 className={
                   "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
@@ -65,13 +70,13 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "JavaScript (ES6+), React, Next.js, TypeScript, Prismic CMS, Redux, Redux Toolkit, React Testing Library, Vitetest, HTML5, Git/GitHub, NextAuth, Formik."
+                  "C#, VB, Python, JavaScript, Assembly, TypeScript, Dart."
                 }
               />
             </div>
             <div className="flex flex-col gap-3">
               <AnimatedTitle
-                text={"UI Libraries"}
+                text={"Libraries and Frameworks"}
                 className={
                   "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
@@ -80,13 +85,13 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "CSS3/SCSS/SASS, Tailwind CSS, Material UI, Framer Motion, GSAP, Bootstrap, Chart.js."
+                  "Pytorch, TensorFlow, Keras, MXNet, OpenCV, NumPy, pandas, Matplotlib, Scipy, React, Next.js, Flutter, Redux, Redux Toolkit, Tailwind CSS, Material UI, Framer Motion, Bootstrap."
                 }
               />
             </div>
             <div className="flex flex-col gap-3">
               <AnimatedTitle
-                text={"Design Tools"}
+                text={"Tools"}
                 className={
                   "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
@@ -95,7 +100,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Figma, Framer, FigJam, Adobe XD, ProtoPie, Adobe Photoshop, UX Research, UI Design, Prototyping."
+                  "Visual Studio, SAP HANA, SAP B1, Android Studio, Visual Studio Code, Excel, Crystal Reports, Qlik, Power BI, Grafana, Influx DB for Digital Dashboarding."
                 }
               />
             </div>
@@ -164,7 +169,7 @@ const About = () => {
                <AnimatedBody
                 className="text-white"
                 text={
-                  "• SAP Developer Consultant(March 2016 - August 2017)"
+                  "• SAP Developer Consultant\n(March 2016 - August 2017)"
                 }
               />
             </div>

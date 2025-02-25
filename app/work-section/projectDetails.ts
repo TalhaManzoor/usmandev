@@ -103,7 +103,7 @@ export const devProjects = [
     name: "Machine Learning",
     description:
       "Customer Segmentation and Product Recommendation System.",
-    technologies: ["Flutter", "ASP .NET", "Dart"],
+    technologies: ["Python", "TensorFlow"],
     github: "",
     demo: "",
     image: require(".//../../public/projectsImages/productRecommendation1.webp"),
@@ -114,7 +114,7 @@ export const devProjects = [
     name: "Machine Learning",
     description:
       "Biasness Identification of Talk Show’s Host by Using Video Analysis.",
-    technologies: ["Flutter", "ASP .NET", "Dart"],
+    technologies: ["Python", "TensorFlow"],
     github: "",
     demo: "",
     image: require(".//../../public/projectsImages/talkShow1.webp"),

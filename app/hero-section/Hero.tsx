@@ -58,15 +58,15 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://twitter.com/"
+            href="https://x.com/musmanmanzoor"
             target="_blank"
-            aria-label="View Twitter Profile"
+            aria-label="View X Profile"
           >
             <motion.p
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              TW
+              X
             </motion.p>
           </Link>
           

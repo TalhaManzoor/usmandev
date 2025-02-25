@@ -105,12 +105,12 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://twitter.com/"
+              href="https://x.com/musmanmanzoor"
               target="_blank"
-              aria-label="View Twitter Profile"
+              aria-label="View X Profile"
             >
               <AnimatedTitle
-                text={"TW"}
+                text={"X"}
                 className={
                   "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
