@@ -70,7 +70,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "C#, VB, Python, JavaScript, Assembly, TypeScript, Dart."
+                  "C#, VB, Python, JavaScript, TypeScript."
                 }
               />
             </div>
@@ -85,7 +85,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Pytorch, TensorFlow, Keras, MXNet, OpenCV, NumPy, pandas, Matplotlib, Scipy, React, Next.js, Flutter, Redux, Redux Toolkit, Tailwind CSS, Material UI, Framer Motion, Bootstrap."
+                  "Pytorch, TensorFlow, Keras, MXNet, OpenCV, NumPy, pandas, Matplotlib, Scipy, React, Next.js, Tailwind CSS, Material UI, Framer Motion, Bootstrap."
                 }
               />
             </div>
@@ -100,7 +100,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Visual Studio, SAP HANA, SAP B1, Android Studio, Visual Studio Code, Excel, Crystal Reports, Qlik, Power BI, Grafana, Influx DB for Digital Dashboarding."
+                  "Visual Studio, SAP HANA, Visual Studio Code, Excel, Grafana, Influx DB for Digital Dashboarding."
                 }
               />
             </div>
@@ -137,12 +137,25 @@ const About = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-              <AnimatedBody
-               className="text-white"
-                text={
-                  "• Lead Techno Functional Consultant & Developer.\t(November 2020 - Present)"
+            
+               <div className="flex flex-row">
+               <AnimatedTitle
+                text={"• Lead Techno Functional Consultant & Developer."}
+                className={
+                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
               />
+              <AnimatedTitle
+                text={"(November 2020 - Present)"}
+                className={
+                  "text-[13px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+               </div>
             </div>
 
             <div className="flex flex-col gap-3 m-2 w-[100%] text-start">
@@ -154,24 +167,62 @@ const About = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-              <AnimatedBody
-               className="text-white"
-                text={
-                  "• Manager Development.(March 2019 – December 2020)"
+              <div className="flex flex-row">
+              <AnimatedTitle
+                text={"• Manager Development."}
+                className={
+                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
               />
-               <AnimatedBody
-                className="text-white"
-                text={
-                  "• Sr. Techno Functional Consultant - .Net Developer(September 2017 - March 2019)"
+               <AnimatedTitle
+                text={"(March 2019 – December 2020)"}
+                className={
+                  "text-[13px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
                 }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
               />
-               <AnimatedBody
-                className="text-white"
-                text={
-                  "• SAP Developer Consultant\n(March 2016 - August 2017)"
+              </div>
+              <div className="flex flex-row">
+              <AnimatedTitle
+                text={"• Sr. Techno Functional Consultant - .Net Developer"}
+                className={
+                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
               />
+              <AnimatedTitle
+                text={"(September 2017 - March 2019)"}
+                className={
+                  "text-[13px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+              </div>
+
+              <div className="flex flex-row">
+              <AnimatedTitle
+                text={"• SAP Developer Consultant"}
+                className={
+                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+              <AnimatedTitle
+                text={"(March 2016 - August 2017)"}
+                className={
+                  "text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+              </div>
+           
             </div>
 
             <div className="flex flex-col gap-3 m-2 w-[100%] text-start">
@@ -183,12 +234,27 @@ const About = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-              <AnimatedBody
-               className="text-white"
-                text={
-                  "• Junior Web Developer (August 2015 - March 2016)"
+             <div className="flex flex-row">
+             <AnimatedTitle
+                text={"• Junior Web Developer"}
+                className={
+                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
               />
+               <AnimatedTitle
+                text={"(August 2015 - March 2016)"}
+                className={
+                  "text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />
+
+
+             </div>
+          
             </div>
 
 
@@ -216,12 +282,29 @@ const About = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-              <AnimatedBody
-              className="text-white"
-                text={
-                  "• University of Vaasa, Vaasa (2024)"
+             
+             <div className=" flex flex-row">
+
+              <AnimatedTitle
+                text={"• University of Vaasa, Vaasa"}
+                className={
+                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />            
+                <AnimatedTitle
+                text={"(2024)"}
+                className={
+                  "text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
               />
+             </div>
+
+              
+              
             </div>
 
 
@@ -235,12 +318,25 @@ const About = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-              <AnimatedBody
-               className="text-white"
-                text={
-                  "• University of Management and Technology, Lahore (2017-2020)"
+              
+               <div className=" flex flex-row">
+              <AnimatedTitle
+                text={"• University of Management and Technology, Lahore "}
+                className={
+                  "text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"
                 }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
+              />            
+                <AnimatedTitle
+                text={"(2017-2020)"}
+                className={
+                  "text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"
+                }
+                wordSpace={"mr-[0.25em]"}
+                charSpace={"mr-[0.01em]"}
               />
+             </div>
             </div>
 
 
@@ -253,12 +349,23 @@ const About = () => {
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
-              <AnimatedBody
-               className="text-white"
-                text={
-                  "• University of Management and Technology, Lahore (2012-2016)"
-                }
-              />
+              
+              <div className=" flex flex-row">
+
+                 <AnimatedTitle
+                      text={"• University of Management and Technology, Lahore"}
+                         className={"text-[13px] text-[#e4ded7] md:text-[14px] lg:text-[15px]"}
+                         wordSpace={"mr-[0.25em]"}
+                        charSpace={"mr-[0.01em]"}
+                              />            
+                      <AnimatedTitle
+                          text={"(2012-2016)"}
+                          className={"text-[8px] text-[#3c50d8] md:text-[14px] lg:text-[15px]"}
+                          wordSpace={"mr-[0.25em]"}
+                          charSpace={"mr-[0.01em]"}
+                            />
+                        </div>
+               
             </div>
 
       </div>

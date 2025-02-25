@@ -104,14 +104,14 @@ const ProjectCard = ({
       <div
         className={`absolute text-white  ${
           !(id % 2 === 0)
-            ? "right-0 top-20 mr-0 ml-10 md:right-0 md:ml-0 lg:right-0 lg:top-32  lg:mr-4"
-            : "left-10 top-20 ml-0 md:mr-12 lg:top-32 lg:ml-4"
+            ? "right-0 top-12 mr-0 ml-10 md:right-0 md:ml-0 lg:right-0 lg:top-16  lg:mr-4"
+            : "left-10 top-12 ml-0 md:mr-12 lg:top-16 lg:ml-4"
         } mb-10  md:mb-16 lg:mb-14 `}
       >
         <AnimatedTitle
           text={name}
           className={
-            "max-w-[90%] text-[40px] leading-none text-white md:text-[44px] md:leading-none lg:max-w-[450px] lg:text-[48px] lg:leading-none"
+            "max-w-[90%] text-[24px] leading-none text-white md:text-[30px] md:leading-none lg:max-w-[450px] lg:text-[36px] lg:leading-none"
           }
           wordSpace={"mr-[0.25em]"}
           charSpace={"-mr-[0.01em]"}

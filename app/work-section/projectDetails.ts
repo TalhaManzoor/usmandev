@@ -81,7 +81,7 @@ export const devProjects = [
     name: "Plant Maintenance",
     description:
       "Plant Maintenance ensures equipment inspection, repair, and upkeep for efficiency, safety, and minimal downtime.",
-    technologies: ["SAP b1", "ASP .NET", "C#"],
+    technologies: ["SAP b1", ".NET", "C#"],
     github: "",
     demo: "",
     image: require(".//../../public/projectsImages/plantMaintenance.jpeg"),
@@ -92,7 +92,7 @@ export const devProjects = [
     name: "Cargo and Flight Operations",
     description:
       "A system for managing air cargo, flight scheduling, tracking, inventory, and compliance efficiently.",
-    technologies: ["SAP b1", "ASP .NET", "C#"],
+    technologies: ["SAP b1", ".NET", "C#"],
     github: "",
     demo: "",
     image: require(".//../../public/projectsImages/cargo.jpeg"),
@@ -100,10 +100,10 @@ export const devProjects = [
   },
   {
     id: 8,
-    name: "Machine Learning",
+    name: "Customer Segmentation and Product Recommendation System.",
     description:
-      "Customer Segmentation and Product Recommendation System.",
-    technologies: ["Python", "TensorFlow"],
+      "Python, Data Preprocessing, Data Analysis, Trends, Correlation Analysis, Dimensionality Reduction (PCA), K MEANS, elbow method, Cluster analysis, Recommendation System ",
+    technologies: ["Python"],
     github: "",
     demo: "",
     image: require(".//../../public/projectsImages/productRecommendation1.webp"),
@@ -111,10 +111,10 @@ export const devProjects = [
   },
   {
     id: 9,
-    name: "Machine Learning",
+    name: "Biasness Identification of Talk Show’s Host by Using Video Analysis.(2017)",
     description:
-      "Biasness Identification of Talk Show’s Host by Using Video Analysis.",
-    technologies: ["Python", "TensorFlow"],
+      "video analysis, image analysis, Microsoft emotion analysis api, open cv, xml,",
+    technologies: ["Python", "OpenCV"],
     github: "",
     demo: "",
     image: require(".//../../public/projectsImages/talkShow1.webp"),
