@@ -13,23 +13,23 @@ const syne = Syne({
 export const metadata: Metadata = {
   title: "Usman Manzoor — Software Engineer",
   description:
-    "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Machine Learning & Computer Vision Engineer | Innovating with AI & Robotics",
   generator: "Next.js",
   applicationName: "Usman Manzoor",
   keywords: [
     "freelance",
     "developer",
     "freelance developer",
-    "frontend",
+    "AI",
     "react",
     "frontend developer",
-    "frontend engineer",
-    "creative",
-    "creative developer",
+    "Robotics",
+    "ai",
+    "machine learning",
     "creative engineer",
     "tech",
-    "nigeria",
-    "software",
+    "pakistan",
+    "computer vision engineer",
     "software developer",
     "portfolio",
     "frontend developer portfolio",
@@ -39,15 +39,15 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Usman Manzoor — Frontend Engineer",
     description:
-      "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+      "Machine Learning & Computer Vision Engineer | Innovating with AI & Robotics",
+    url: "https://usmandev-243.vercel.app/",
+    siteName: "https://usmandev-243.vercel.app/",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "https://www.udacity.com/_next/image?url=https%3A%2F%2Fvideo.udacity-data.com%2Ftopher%2F2024%2FOctober%2F6709872f_nd0044%2Fnd0044.jpg&w=3840&q=75",
         width: 1200,
         height: 630,
-        alt: "Victor Williams — Software Engineer",
+        alt: "Usman Manzoor — Software Engineer",
       },
     ],
     locale: "en-US",
@@ -55,13 +55,13 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Victor Williams — Frontend Engineer",
+    title: "Usman Manzoor — Software Engineer",
     description:
-      "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      "Machine Learning & Computer Vision Engineer | Innovating with AI & Robotics",
     creator: "victorwill__",
     creatorId: "1243720976552144897",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "https://www.udacity.com/_next/image?url=https%3A%2F%2Fvideo.udacity-data.com%2Ftopher%2F2024%2FOctober%2F6709872f_nd0044%2Fnd0044.jpg&w=3840&q=75",
     ],
   },
   robots: {
