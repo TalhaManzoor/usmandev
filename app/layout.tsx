@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Usman Manzoor — Frontend Engineer",
+    title: "Usman Manzoor — ML Engineer",
     description:
       "Machine Learning & Computer Vision Engineer | Innovating with AI & Robotics",
     url: "https://usmandev-243.vercel.app/",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
         url: "https://www.udacity.com/_next/image?url=https%3A%2F%2Fvideo.udacity-data.com%2Ftopher%2F2024%2FOctober%2F6709872f_nd0044%2Fnd0044.jpg&w=3840&q=75",
         width: 1200,
         height: 630,
-        alt: "Usman Manzoor — Software Engineer",
+        alt: "Usman Manzoor — ML Engineer",
       },
     ],
     locale: "en-US",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Usman Manzoor — Software Engineer",
+    title: "Usman Manzoor — ML Engineer",
     description:
       "Machine Learning & Computer Vision Engineer | Innovating with AI & Robotics",
     creator: "victorwill__",
