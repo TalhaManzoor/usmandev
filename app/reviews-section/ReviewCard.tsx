@@ -37,7 +37,7 @@ const BlogCard = ({
       amount: "some",
       once: true,
     }}
-      className="relative flex  w-[100%] flex-col items-start justify-between rounded-[23px] border-[3px] border-[#212531] bg-transparent p-[28px] sm:h-[450px] sm:items-center sm:justify-start lg:h-[393px] lg:max-w-[438px] "
+      className="relative flex  w-[100%] flex-col items-start justify-between rounded-[23px] border-[3px] border-[#212531] bg-transparent p-[28px] sm:h-[480px] sm:items-center sm:justify-start md:h-[480]lg:h-[430px] lg:max-w-[438px] "
     >
       <Image
         src={slash}
@@ -45,7 +45,7 @@ const BlogCard = ({
         className="absolute top-[34px] left-[28px] w-[51px]"
       />
 
-      <p className="mt-10 text-[16px] font-[500] leading-relaxed tracking-wide text-[#e4ded7]">
+      <p className="mt-10 text-[14px] font-[400] leading-relaxed tracking-wide text-[#e4ded7]">
         {testimonial}
       </p>
 
